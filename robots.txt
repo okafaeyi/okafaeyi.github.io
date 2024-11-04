@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://okafaeyi.github.io/Jig/sitemap_index.txt
+Sitemap: https://okafaeyi.github.io/KyM/sitemap_index.txt
+Sitemap: https://okafaeyi.github.io/PCS/sitemap_index.txt
+Sitemap: https://okafaeyi.github.io/Zpt/sitemap_index.txt
